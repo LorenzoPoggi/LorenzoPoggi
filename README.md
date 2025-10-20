@@ -1,6 +1,8 @@
-Hello World 
-<!---
-LorenzoPoggi/LorenzoPoggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi! My name is Lorenzo and I'm currently a High-School student.
+
+I'm very interesting in learning programming for Finance Jobs, WebSite Development or School Projects.
+My passion lies in systems engineering and problem-solving. I would like to expand my skills, by learning while I work into a company, to become a Full-Stack Developer. 
+
+---
+### Here are my social networks where you can keep in touch with me:
 
