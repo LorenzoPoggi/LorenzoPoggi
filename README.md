@@ -22,6 +22,6 @@ My passion lies in systems engineering and problem-solving. I would like to expa
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,fastapi,docker,git,mongo,sqlite,tensorflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,html,css,fastapi,docker,git,mongo,sqlite,tensorflow&theme=dark" />
   </a>
 </div>
